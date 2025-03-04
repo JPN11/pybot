@@ -1,0 +1,4 @@
+python-dotenv
+rich
+azure-ai-inference
+azure-core
