@@ -13,11 +13,11 @@ Using `azure-ai-inference` for SDK.
 
 ## Models
 Pybot uses the following models:
-- 'OpenAI GPT-4o-mini'
-- 'Meta Llama-3.3-70B-Instruct'
-- 'OpenAI GPT-4o'
-- 'Mistral-small'
-- 'Phi-4 multimodal-instruct'
+- `OpenAI GPT-4o-mini`
+- `Meta Llama-3.3-70B-Instruct`
+- `OpenAI GPT-4o`
+- `Mistral-small`
+- `Phi-4 multimodal-instruct`
 Powered by Github Models
 
 
